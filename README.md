@@ -117,10 +117,14 @@ Wi-Fi (IEEE 802.11)
 Satellite Communication
 
 Digital Broadcasting
+
+
 👨‍🎓 Author
 
 Samran Nawar Khan
+
 Electrical Engineering (Communication Systems)
+
 Semester Project – Digital Communication
 
 🔑 Keywords
